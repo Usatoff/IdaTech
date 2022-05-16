@@ -2,7 +2,7 @@
 
 ## Docker:
 
-docker build -t test-task .
+    docker build -t test-task .
 
 to run main.py:
 
